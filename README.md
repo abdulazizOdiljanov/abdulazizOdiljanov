@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Abdulaziz+Odiljanov)<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Abdulaziz+Odiljanov)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+FrontEnd+Developer)
 
 ### Languages and Tools  
