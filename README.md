@@ -35,3 +35,6 @@
 
 <p>&nbsp;
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulazizOdiljanov&show_icons=true&bg_color=50,6666ff,00cc99&title_color=fff&text_color=fff&icon_color=f2f2f2&locale=en&count_private=true&hide=issues" alt="bilgecakar" width="50%" /></p>
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulazizOdiljanov)](https://git.io/streak-stats)
